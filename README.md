@@ -1,0 +1,171 @@
+# DocSpace 📂
+
+<p align="center">
+  <img src="assets/screenshot1.jpg" alt="App Icon" width="128" style="border-radius:26px;"/>
+</p>
+
+<p align="center">
+  <strong>A modern, privacy-focused document organizer for Android</strong><br>
+  Built with Flutter and Material Design 3 Expressive
+</p>
+
+<p align="center">
+  <img src="assets/screenshot1.jpg" alt="Screenshot 1" width="200" style="border-radius:26px;"/>
+  <img src="assets/screenshot2.jpg" alt="Screenshot 2" width="200" style="border-radius:26px;"/>
+  <img src="assets/screenshot3.jpg" alt="Screenshot 3" width="200" style="border-radius:26px;"/>
+  <img src="assets/screenshot4.jpg" alt="Screenshot 4" width="200" style="border-radius:26px;"/>
+</p>
+
+<p align="center">
+  <img src="assets/screenshot5.jpg" alt="Screenshot 5" width="200" style="border-radius:26px;"/>
+  <img src="assets/screenshot6.jpg" alt="Screenshot 6" width="200" style="border-radius:26px;"/>
+  <img src="assets/screenshot7.jpg" alt="Screenshot 7" width="200" style="border-radius:26px;"/>
+  <img src="assets/screenshot8.jpg" alt="Screenshot 8" width="200" style="border-radius:26px;"/>
+</p>
+
+<p align="center">
+    <a href="https://github.com/xtractiion/docspace/releases/latest">
+        <img src="https://img.shields.io/github/v/release/xtractiion/docspace?include_prereleases&logo=github&style=for-the-badge&label=Latest%20Release" alt="Latest Release">
+    </a>
+    <a href="https://github.com/xtractiion/docspace/releases">
+        <img src="https://img.shields.io/github/downloads/xtractiion/docspace/total?logo=github&style=for-the-badge" alt="Total Downloads">
+    </a>
+    <img src="https://img.shields.io/badge/Android-10%2B-green?style=for-the-badge&logo=android" alt="Android 10+">
+    <img src="https://img.shields.io/badge/Flutter-100%25-blue?style=for-the-badge&logo=flutter" alt="Flutter">
+</p>
+
+---
+
+## ‼️ DISCLAIMER
+- This project is open source. No fork of this project will receive support; if you use a fork, ask the forker to support you.
+
+---
+
+## ✨ Features
+
+### 🎨 Modern UI/UX
+- **Material 3 Expressive** - High-quality design with shared-axis transitions.
+- **Dark Mode** - Deep black themes optimized for OLED screens.
+- **Smooth Animations** - Fluid interactions powered by the `animations` package.
+- **Custom Icons** - Aesthetic icons for every file type.
+
+### � Smart Organization
+- **Subject-Based Folders** - Organize documents into subjects and projects.
+- **Deep Nesting** - Create unlimited sub-folders for granular control.
+- **Smart Grouping** - Visual organization of content for better readability.
+- **Search** - Fast, local search implementation.
+
+### ⚡ Seamless "Share to Save"
+- **Instant Save** - Share PDFs/Images from WhatsApp, Telegram, or Drive directly to DocSpace.
+- **One-Tap Action** - A dedicated "Save Here" mode that integrates with native intents.
+- **Smart Handling** - Automatically handles Android intents to prevent duplicate apps in Recents.
+
+### 🔒 Privacy & Performance
+- **100% Offline** - No cloud syncing. Your files stay on your device.
+- **No Tracking** - Privacy-first approach with zero analytics.
+- **Split APKs** - Optimized build size (~16MB) for your specific device architecture.
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technology |
+|----------|------------|
+| **Language** | [Dart](https://dart.dev/) |
+| **Framework** | [Flutter](https://flutter.dev) |
+| **State Management** | [Riverpod](https://riverpod.dev) |
+| **Design System** | [Material Design 3](https://m3.material.io/) |
+| **Navigation** | Flutter Navigator 2.0 with Shared Axis Transitions |
+| **Local Storage** | `path_provider` + File System |
+| **Inter-App** | `receive_sharing_intent` |
+| **Architecture** | MVVM-style with Providers |
+
+---
+
+## 📱 Requirements
+
+- **Android 7.0** (API 24) or higher
+- **2GB RAM** recommended for smooth performance
+
+---
+
+## � Getting Started
+
+### Prerequisites
+
+- Flutter SDK 3.10+
+- Android Studio 2023.1+
+- Java 17
+
+### Installation
+
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/xtractiion/docspace.git
+   ```
+
+2. **Open in Terminal/VS Code**
+   - Navigate to the directory
+   ```sh
+   cd docspace
+   ```
+
+3. **Get Dependencies**
+   ```sh
+   flutter pub get
+   ```
+
+4. **Run**
+   - Connect a device
+   ```sh
+   flutter run --release
+   ```
+
+---
+
+## ⬇️ Download
+
+<p align="center">
+  <a href="https://github.com/xtractiion/docspace/releases/latest">
+    <img src="https://raw.githubusercontent.com/Kunzisoft/Github-badge/main/get-it-on-github.png" alt="Get it on GitHub" height="60">
+  </a>
+</p>
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+├── models/         # Data models (Document, Subject)
+├── providers/      # Riverpod providers (State Management)
+├── screens/        # UI Screens (Home, Document List, etc.)
+├── services/       # File & Storage services
+├── utils/          # Helper functions
+├── widgets/        # Reusable UI components
+└── main.dart       # Entry point
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is distributed under the MIT License.
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/xtractiion">xtractiion</a>
+</p>

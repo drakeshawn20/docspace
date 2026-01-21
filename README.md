@@ -27,7 +27,7 @@
         <img src="https://img.shields.io/github/v/release/xtractiion/docspace?include_prereleases&logo=github&style=for-the-badge&label=Latest%20Release" alt="Latest Release">
     </a>
     <a href="https://github.com/xtractiion/docspace/releases">
-        <img src="https://img.shields.io/github/downloads/xtractiion/docspace/total?logo=github&style=for-the-badge" alt="Total Downloads">
+        <img src="https://img.shields.io/github/downloads/xtractiion/docspace/total?include_prereleases&logo=github&style=for-the-badge" alt="Total Downloads">
     </a>
     <img src="https://img.shields.io/badge/Android-10%2B-green?style=for-the-badge&logo=android" alt="Android 10+">
     <img src="https://img.shields.io/badge/Flutter-100%25-blue?style=for-the-badge&logo=flutter" alt="Flutter">

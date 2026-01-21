@@ -8,19 +8,20 @@
   <strong>Save What Matters</strong><br>
 </p>
 
-<p align="center">
-  <img src="assets/screenshot1.jpg" alt="Screenshot 1" width="200" style="border-radius:26px;"/>
-  <img src="assets/screenshot2.jpg" alt="Screenshot 2" width="200" style="border-radius:26px;"/>
-  <img src="assets/screenshot3.jpg" alt="Screenshot 3" width="200" style="border-radius:26px;"/>
-  <img src="assets/screenshot4.jpg" alt="Screenshot 4" width="200" style="border-radius:26px;"/>
-</p>
-
-<p align="center">
-  <img src="assets/screenshot5.jpg" alt="Screenshot 5" width="200" style="border-radius:26px;"/>
-  <img src="assets/screenshot6.jpg" alt="Screenshot 6" width="200" style="border-radius:26px;"/>
-  <img src="assets/screenshot7.jpg" alt="Screenshot 7" width="200" style="border-radius:26px;"/>
-  <img src="assets/screenshot8.jpg" alt="Screenshot 8" width="200" style="border-radius:26px;"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><img src="assets/screenshot1.jpg" width="100%" style="border-radius:10px;" /></td>
+    <td align="center" width="25%"><img src="assets/screenshot2.jpg" width="100%" style="border-radius:10px;" /></td>
+    <td align="center" width="25%"><img src="assets/screenshot3.jpg" width="100%" style="border-radius:10px;" /></td>
+    <td align="center" width="25%"><img src="assets/screenshot4.jpg" width="100%" style="border-radius:10px;" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><img src="assets/screenshot5.jpg" width="100%" style="border-radius:10px;" /></td>
+    <td align="center" width="25%"><img src="assets/screenshot6.jpg" width="100%" style="border-radius:10px;" /></td>
+    <td align="center" width="25%"><img src="assets/screenshot7.jpg" width="100%" style="border-radius:10px;" /></td>
+    <td align="center" width="25%"><img src="assets/screenshot8.jpg" width="100%" style="border-radius:10px;" /></td>
+  </tr>
+</table>
 
 <p align="center">
     <a href="https://github.com/xtractiion/docspace/releases/latest">

